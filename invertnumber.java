@@ -1,0 +1,13 @@
+// inverted right angle triangle 5 to 1
+
+public class invertnumber {
+    public static void main(String[] args) {
+        int n =5;
+        for(int i = n;i>=1;i--){
+            for(int j = 1;j<=i;j++){
+                System.out.print(j);
+            }
+            System.out.println();
+        }
+    }
+}
