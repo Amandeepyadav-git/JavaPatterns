@@ -1,4 +1,10 @@
-// inverted right angle triangle 5 to 1
+// inverted right angle triangle 5 to 
+
+// 12345
+// 1234
+// 123
+// 12
+// 1
 
 public class invertnumber {
     public static void main(String[] args) {
