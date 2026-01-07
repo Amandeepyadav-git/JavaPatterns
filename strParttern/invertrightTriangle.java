@@ -1,3 +1,4 @@
+package strParttern;
 //inverted right angle triangle star pattern using java
 
 

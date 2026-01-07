@@ -1,3 +1,4 @@
+package strParttern;
 public class mirrortriangle {
     public static void main(String[] args) {
         int n = 5;

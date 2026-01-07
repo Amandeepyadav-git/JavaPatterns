@@ -1,3 +1,4 @@
+package numPattern;
 // inverted right angle triangle 5 to 
 
 // 12345
@@ -6,7 +7,7 @@
 // 12
 // 1
 
-public class invertnumber {
+public class invertNumber {
     public static void main(String[] args) {
         int n =5;
         for(int i = n;i>=1;i--){

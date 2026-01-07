@@ -1,3 +1,4 @@
+package strParttern;
 //To print hollow star rectangle/square 
 
 public class HollowSqr {

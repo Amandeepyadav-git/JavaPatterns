@@ -1,3 +1,4 @@
+package strParttern;
 //To print star square pattern 5x5
 
 public class sqrptrn {

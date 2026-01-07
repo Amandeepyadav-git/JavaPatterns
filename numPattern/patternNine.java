@@ -1,3 +1,4 @@
+package numPattern;
 
 // 01
 // 101

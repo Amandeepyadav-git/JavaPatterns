@@ -1,3 +1,4 @@
+package strParttern;
 //Create right angle traingle star pattern
 
 
