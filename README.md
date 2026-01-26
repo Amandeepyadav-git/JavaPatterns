@@ -10,6 +10,7 @@ This repository contains a collection of Java design patterns, classified and ca
 *   **README:**  This file contains pattern problems solved in Java.
 *   **Releases:** No releases published.
 *   **Packages:** No packages published.
+*   **Contains:** Code given from IG-YT source.
 *   **Languages:** Java 100.0%
 *   **Suggested workflows:**
     *   Publish Java Package with Gradle
